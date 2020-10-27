@@ -1,4 +1,4 @@
-# lab_assignment1
+## Lab1 Lean Body Mass Calculator (Metric Unit)
 
 A new Flutter project.
 

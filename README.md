@@ -1,4 +1,4 @@
-## Lab1 Lean Body Mass Calculator (Metric Unit)
+## Lab 1 Lean Body Mass Calculator (Metric Unit) Flutter
 
 A new Flutter project.
 
